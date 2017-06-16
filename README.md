@@ -1,24 +1,7 @@
-# README
+# Sitting Duck & The Barbican
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application from the talk The Barbican about using 
+[Kickstarter's](https://github.com/kickstarter/)[Rack::Attack](https://github.com/kickstarter/rack-attack) 
+to throttle malicious requests to a Rails API.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the [slides](talk/slides.pdf) from the talk for reference.
